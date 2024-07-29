@@ -1,4 +1,4 @@
-## Olá! Hello! I'm Arthur César.
+## Hello! I'm Arthur César.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.cesinha/)
 
