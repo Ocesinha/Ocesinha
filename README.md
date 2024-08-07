@@ -1,11 +1,9 @@
-## [PT-BR] Olá! Eu sou Arthur César.
-## [EN] Hi! I'm Arthur César.
+## [PT-BR] Olá! Eu sou Arthur César. // [EN] Hi! I'm Arthur César.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.cesinha/)
 
 
-## [PT-BR] Tecnologias que uso:
-## [EN] Technologies I use:
+## [PT-BR] Tecnologias que uso: // [EN] Technologies I use:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
