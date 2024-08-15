@@ -1,17 +1,61 @@
-## [PT-BR] Olá! Eu sou Arthur César. // [EN] Hi! I'm Arthur César.
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/6e/21/b9/6e21b903a4a4898dc5d9e8b28eedfcd5.gif"  />
+</div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.cesinha/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurc1.contato@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-césar-mendes-de-freitas-4115602b1/)
+###
 
+<div align="center">
+ <a href="https://www.instagram.com/dev.cesinha/"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/> </a>
+ <a href="https://www.linkedin.com/in/arthur-césar-mendes-de-freitas-4115602b1/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /> </a>
+ <a href="mailto:arthurc1.contato@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /> </a>
+</div>
 
-## [PT-BR] Tecnologias que uso: // [EN] Technologies I use:
+###
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</div><br/>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ocesinha.Ocesinha&left_color=darkmagenta&right_color=pink&left_text=Cooperators"  />
+</div>
 
-I love technology ;)
+###
+
+<h1 align="center">[EN] Hey Friends! 👋 // [PT-BR] Olá Amigos!👋</h1>
+
+###
+
+<h3 align="left">[EN]👩‍💻  About Me //  [PT-BR]👩‍💻 Sobre mim</h3>
+
+###
+
+<p align="left">[EN]<br><br>- 🔭 I'm 16 years old and I've been following technology since I was 6 years old.<br>- 📚 I'm following the Full-Stack path.<br>- ⚡ Humanity never stops evolving.<br><br>[PT-BR]<br><br>- 🔭 Tenho 16 anos e acompanho tecnologia desde os 6 anos.<br>- 📚 Estou seguindo o caminho Full-Stack.<br>- ⚡ A humanidade nunca para de evoluir.</p>
+
+###
+
+<h3 align="left">[EN]🛠 Language and tools // 🛠 Linguagens e Ferramentas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="40" alt="devicon logo"  />
+</div>
+
+###
+
+<h3 align="left">[EN] 🔥  My Stats : // [PT-BR] 🔥 Meus Status:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ocesinha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
