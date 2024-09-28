@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">[EN]<br><br>- 🔭 I'm 16 years old and I've been following technology since I was 6 years old.<br>- 📚 I'm following the Full-Stack path.<br>- ⚡ Humanity never stops evolving.<br><br>[PT-BR]<br><br>- 🔭 Tenho 16 anos e acompanho tecnologia desde os 6 anos.<br>- 📚 Estou seguindo o caminho Full-Stack.<br>- ⚡ A humanidade nunca para de evoluir.</p>
+<p align="left">[EN]<br><br>- 🔭 I'm 17 years old and I've been following technology since I was 6 years old.<br>- 📚 I'm following the Full-Stack path.<br>- ⚡ Humanity never stops evolving.<br><br>[PT-BR]<br><br>- 🔭 Tenho 17 anos e acompanho tecnologia desde os 6 anos.<br>- 📚 Estou seguindo o caminho Full-Stack.<br>- ⚡ A humanidade nunca para de evoluir.</p>
 
 ###
 
