@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="150" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/01-black-cat_800x600_v1.gif"  />
+  <img height="150"  width="150" border-radius="20px" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/01-black-cat_800x600_v1.gif"  />
 </div>
 
 ###
