@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="150"  src="https://i.gifer.com/5PRu.gif"/>
+  <img height="250" width='auto'  src="https://preview.redd.it/familiar-face-in-an-unfamiliar-setting-isekai-manga-v0-zwdtyqs7iyyd1.gif?width=500&auto=webp&s=04bca6e91a4034a15345a4e42bec4ef51bd18382"/>
 </div>
 
 ###
