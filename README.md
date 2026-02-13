@@ -53,6 +53,9 @@ Atuo no desenvolvimento de aplicações web, sempre buscando aprender na prátic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="40"/>
   <img width="12"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="40"/>
-  <img width="12"/> 
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="40"/>
+  <img width="12"/>
+          
           
 </div>
